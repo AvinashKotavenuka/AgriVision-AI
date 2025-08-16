@@ -60,4 +60,4 @@ During discussions in college, we realized that while AI is transforming industr
 - Predictive analytics for **yield estimation**.  
 - Mobile app version for easy accessibility in rural areas.
 
-Added project documentation
+"Demo coming soon"
