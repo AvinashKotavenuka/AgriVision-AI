@@ -7,7 +7,7 @@ AI-powered crop health detection using satellite imagery and Gen-AI assistant fo
 
 ---
 
-🚀 Elevator Pitch  
+## 🚀 Elevator Pitch  
 AgriVision AI helps farmers and researchers identify crops and detect early health issues using satellite imagery and AI. With a Gen-AI assistant, it provides simple, actionable advice in multiple languages, making precision agriculture accessible to everyone.
 
 ---
